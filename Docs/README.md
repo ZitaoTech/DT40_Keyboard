@@ -12,7 +12,6 @@ Keywords: avago, adbs, a320, OFN, optical finger navigation.
 ### 1. Pinout (FPC on the left, pads facing you)
 The cable is 0.3mm dual-row FPC with notches (used to prevent slipping out of connector).
 
-![cable back](img/ofn_back.jpg)
 
 |Pin |Pin |Function|Wiring note|
 |:---|---:|:---    |:---  |
@@ -31,7 +30,9 @@ The cable is 0.3mm dual-row FPC with notches (used to prevent slipping out of co
 |    |  1 |Dome switch A||
 
 BTB connector: FH35C-17S-0.3SHW(50)
+
 https://item.szlcsc.com/3111895.html
+
 https://www.mouser.com/ProductDetail/Hirose-Connector/FH35C-17S-0.3SHW50?qs=zPSbg0dgZohBQpjy02xR9g%3D%3D
 
 
